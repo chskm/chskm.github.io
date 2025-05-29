@@ -1,1 +1,12 @@
-
+title: Sai Krishna Manohar Cheemakurthi
+description: AI, DevOps, Cloud Native, & Observability Enthusiast
+url: "https://saikrishnacheemakurthi.github.io"
+#logo: /assets/img/headshot_circle.png
+#show_downloads: true
+#theme: jekyll-theme-minimal
+permalink: /:title:output_ext
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - LICENSE
