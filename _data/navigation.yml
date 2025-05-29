@@ -1,0 +1,10 @@
+- title: Home
+  link: /
+- title: About Me
+  link: "/about"
+- title: Certifications
+  link: "/certifications"
+- title: Projects
+  link: "/projects"
+- title: Blogs
+  link: "/blogs"
