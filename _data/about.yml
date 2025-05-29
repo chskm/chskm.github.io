@@ -1,13 +1,14 @@
 - title: Education
   content: |
-    Bachelor of Engineering (Computer Science)
+    Master Of Science (Computer Science)
+    Bachelor Of Technology (Information Technology)
 - title: Skills
   content: |
-    Splunk, New Relic, Elasticsearch,<br/>
+    GenAI, Machine Learning, Splunk, DataDog, New Relic, Grafana,<br/>
     Ansible, Git, DevOps CI/CD,<br/>
-    Azure, Google Cloud Platform, <br/>
-    Docker, Kubernetes,<br/>
+    AWS, Azure, Google Cloud Platform, <br/>
+    Docker, Kubernetes, SRE<br/>
     Python, JavaScript, CSS, SQL
 - title: Domains
   content: |
-    Retail, Banking, Telecom
+    Insurance, Healthcare, Finance & Banking
