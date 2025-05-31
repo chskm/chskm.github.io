@@ -1,3 +1,11 @@
+- title: Projects Portfolio
+  link: https://www.mygreatlearning.com/eportfolio/sai-krishna-manohar-cheemakurthi
+  
+- title: FoodHub using Python
+  description: |
+    Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business.<br/>
+    Skill & Tools : python, Numpy, Pandas, Seaborn, Exploratory Data Analysis, Business Recommendataions, Bivariate Analysis, Univariate Analysis
+
 - title: New Relic NRQL Command for Splunk
   link: https://splunkbase.splunk.com/app/4988/
   description: |
